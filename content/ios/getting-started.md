@@ -30,7 +30,9 @@ The installation requies Xcode and [CocoaPods](https://cocoapods.org/). If you h
 To install the Skygear iOS SDK as your iOS application dependency:
 
 1. You need to close Xcode.
-2. Open Terminal and navigate to the directory that contains your iOS project by using the cd command: `cd ~/Path/To/Your/App`. You can just drag the file icon to Terminal and the path will be automatically typed for you.
+2. Open Terminal and navigate to the directory that contains your iOS
+   project by using the cd command: `cd ~/Path/To/Your/App`.
+   You can just drag the file icon to Terminal and the path will be 	automatically typed for you.
 3. Run this command in Terminal `pod init` to create a [Podfile](https://guides.cocoapods.org/using/the-podfile.html).
 4. Run this command in Terminal `open -a Xcode Podfile` to edit the Podfile using Xcode. You should avoid using TextEdit to edit the Podfile because it may mess up the format and confuse CocoaPods.
 
