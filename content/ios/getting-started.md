@@ -48,7 +48,7 @@ To install the Skygear iOS SDK as your iOS application dependency:
 	    pod 'SKYKit'
 	end
 	```
-	Replace 'YourProjectName' with your actual project name.
+	Replace `'YourProjectName'` with your actual project name.
 
 	CocoaPods 0.36 and above introduces the `use_frameworks!` instruction, so 	the Objective-C bridging header is no longer needed if you're using Swift in 	your project.
 
@@ -99,7 +99,7 @@ Installing CocoaPods is very simple:
 
 ### Step 3: Create new project
 
-1. Open terminal and run this command `pod lib create --silent --template-url=https://github.com/SkygearIO/skygear-Scaffolding-iOS.git "YourProjectName"`. Change "YourProjectName" to something you like.
+1. Open terminal and run this command `pod lib create --silent --template-url=https://github.com/SkygearIO/skygear-Scaffolding-iOS.git "YourProjectName"`. Change `"YourProjectName"` to something you like.
 2. You will then be prompted a few questions, please make sure that you answer these questions correctly:
 
 - What is your skygear endpoint?
@@ -130,7 +130,7 @@ Container provides [User Authentication](/ios/guide/users),
 <a name="whats-next"></a>
 ## What's Next
 
-Now you've learnt how to start developing with Skygear, check out the SDK docs to learn some of the concepts behind Skygear:
+Now you've learned how to start developing with Skygear, check out the SDK docs to learn some of the concepts behind Skygear:
 
 - Learn how to [Authenticate Users](/ios/guide/users)
 - Learn how to [Save Records](/ios/guide/record)
