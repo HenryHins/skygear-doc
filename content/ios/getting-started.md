@@ -23,7 +23,7 @@ website. After you registered, go to the **INFO** tab and copy down your
 <a name="include-ios-sdk"></a>
 ## Including SDK in existing project
 
-The installation requies Xcode and [CocoaPods](https://cocoapods.org/). If you haven't installed them already, please head to [this section](#new-project) to read about how to craete a new project with configured SDK.
+The installation requires Xcode and [CocoaPods](https://cocoapods.org/). If you haven't installed them already, please head to [this section](#new-project) to read about how to create a new project with configured SDK.
 
 ### Step 1: Install SDK using CocoaPods
 
@@ -48,10 +48,9 @@ To install the Skygear iOS SDK as your iOS application dependency:
 	    pod 'SKYKit'
 	end
 	```
-	
 	Replace 'YourProjectName' with your actual project name.
-	
-	CocoaPods 0.36 and above introduces the `use_frameworks!` instruction, so the Objective-C bridging header is no longer needed if you're using Swift in your project.
+
+	CocoaPods 0.36 and above introduces the `use_frameworks!` instruction, so 	the Objective-C bridging header is no longer needed if you're using Swift in 	your project.
 
 2. Run `pod install` in your terminal.
 3. You would see that an Xcode Workspace file is created. Open the file and go to the project.
@@ -59,7 +58,7 @@ To install the Skygear iOS SDK as your iOS application dependency:
 
 ### Step 3: Configure container
 
-Now, you are going to setup the server endpoint and API key for your app. Read mroe about SKYContainer [here](#skycontainer).
+Now, you are going to setup the server endpoint and API key for your app. Read more about [SKYContainer](#skycontainer).
 
 In `AppDelegate.m`, include `SKYKit`:
 
