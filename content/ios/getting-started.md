@@ -11,7 +11,10 @@ information, such as your server endpoint and API key.
 <a name="about-ios-sdk"></a>
 ## About the SDK
 
-The SDK fully abstracts the way you interact with server so that you no longer need to deal with complicated AJAX requests or socket connections. The SDK talks to your Skygear server directly. With simple API calls and elegant syntax, you can easily achieve many things in your iOS app:
+The SDK fully abstracts the way you interact with server so that you no longer
+need to deal with complicated internet requests or socket connections.
+The SDK talks to your Skygear server directly. With simple API calls,
+you can easily achieve many things in your iOS app:
 
 - Signing up and logging in users
 - Saving and retrieving data

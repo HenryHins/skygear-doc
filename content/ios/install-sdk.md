@@ -1,7 +1,8 @@
 <a name="sdk-existing"></a>
 ## For existing project
 
-The installation requires Xcode and [CocoaPods](https://cocoapods.org/). If you haven't installed them already, please head to [this section](#new-project) to read about how to create a new project with configured SDK.
+The installation requires Xcode and [CocoaPods](https://cocoapods.org/).
+If you haven't installed them already, please head to [this section](#new-project) to read about how to create a new project with configured SDK.
 
 ### Step 1: Install SDK using CocoaPods
 
@@ -68,7 +69,8 @@ Download the latest version of Xcode from the Mac App Store [here](https://itune
 
 CocoaPods manages library dependencies for your Xcode projects.
 
-The dependencies for your projects are specified in a single text file called a Podfile. CocoaPods will resolve dependencies between libraries, fetch the resulting source code, then link it together in an Xcode workspace to build your project.
+The dependencies for your projects are specified in a single text file called a Podfile.
+CocoaPods will resolve dependencies between libraries, fetch the resulting source code, then link it together in an Xcode workspace to build your project.
 
 You can read more about CocoaPods [here](https://guides.cocoapods.org/using/getting-started.html).
 
