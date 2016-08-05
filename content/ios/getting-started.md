@@ -1,10 +1,10 @@
 <a name="sign-up-at-portal"></a>
 ## Signing up at Portal
 
-To start using the Skygear JS SDK, you need to register your account and
-application at the Skygear [Developer Portal](https://portal.skygear.io)
-website. After you registered, go to the **INFO** tab and copy down your
-`Server EndPoint` and `API Key`.
+Before setting up the Skygear iOS SDK, you need to have the Skygear server ready.
+You can sign up for one at the [Skygear Developer Portal](https://portal.skygear.io/signup).
+In the portal, You will also be able to monitor your Skygear server and acquire
+information, such as your server endpoint and API key.
 
 [![Screenshot: where to look for Server EndPoint and API Key](/assets/common/portal-endpoint-apikey.png)](/assets/common/portal-endpoint-apikey.png)
 
