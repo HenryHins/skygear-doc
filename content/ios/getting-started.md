@@ -6,8 +6,6 @@ You can sign up for one at the [Skygear Developer Portal](https://portal.skygear
 In the portal, You will also be able to monitor your Skygear server and acquire
 information, such as your server endpoint and API key.
 
-[![Screenshot: where to look for Server EndPoint and API Key](/assets/common/portal-endpoint-apikey.png)](/assets/common/portal-endpoint-apikey.png)
-
 <a name="about-ios-sdk"></a>
 ## About the SDK
 
